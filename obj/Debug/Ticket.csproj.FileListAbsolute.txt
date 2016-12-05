@@ -1,0 +1,15 @@
+E:\Ticket\Ticket\bin\Debug\Ticket.exe.config
+E:\Ticket\Ticket\bin\Debug\Ticket.exe
+E:\Ticket\Ticket\bin\Debug\Ticket.pdb
+E:\Ticket\Ticket\obj\Debug\Ticket.Form1.resources
+E:\Ticket\Ticket\obj\Debug\Ticket.Properties.Resources.resources
+E:\Ticket\Ticket\obj\Debug\Ticket.csproj.GenerateResource.Cache
+E:\Ticket\Ticket\obj\Debug\Ticket.exe
+E:\Ticket\Ticket\obj\Debug\Ticket.pdb
+E:\Ticket\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+E:\Ticket\Ticket\bin\Debug\Interop.AcroPDFLib.dll
+E:\Ticket\Ticket\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Ticket\Ticket\obj\Debug\Interop.AcroPDFLib.dll
+E:\Ticket\Ticket\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Ticket\Ticket\obj\Debug\Ticket.csproj.ResolveComReference.cache
+E:\Ticket\Ticket\obj\Debug\Ticket.Form2.resources
